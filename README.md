@@ -8,9 +8,9 @@ Analyzing vast amounts of data.
 Making market predictions.
 Making investment decisions.
 Executing actions on the blockchain without human intervention.
-A simple example of AI Agent applications in Web2 is Siri or Alexa, which help automate tasks such as searching for information or playing music. However, in Web3, Crypto AI Agents take this capability to the next level with blockchain and digital asset integration.
-How Do Crypto AI Agents Work?
-Crypto AI Agents work through three main layers:
+A simple example of AI Agent applications in Web2 is Siri or Alexa, which help automate tasks such as searching for information or playing music. However, in Web3, AQUAI Agents take this capability to the next level with blockchain and digital asset integration.
+How Do AQUAI Agent Work?
+AQUAI Agents work through three main layers:
 
 1. Data Input Layer
 Collects data from the blockchain through nodes or APIs like Web3.js.
@@ -21,13 +21,11 @@ These models are trained with historical data to make real-time decisions.
 3. Blockchain Interaction Layer:
 Interacts directly with smart contracts using ABI (Application Binary Interface).
 Performs transactions such as trading, staking, and portfolio management accurately.
-Advantages of Crypto AI Agents
+Advantages of AQUAI Agents
 Crypto AQUAI Agents offer several significant advantages in the cryptocurrency ecosystem, thanks to their ability to process information, make data-driven decisions, and operate autonomously.
 
 Fast and Efficient: AQUAI Agents can work 24/7 non-stop, process large amounts of data simultaneously, and provide rapid analysis results.
 Data-Driven Decision Making: Unlike humans, AQUAI agents base their decisions on objective data, not on emotions or biases.
 Multitasking Capability: AQUAI can perform various tasks simultaneously, from market analysis to NFT content creation.
 Transparent: All actions taken by these agents can be audited, thus creating trust among users.
-Examples of Popular Crypto AI Agents
-1. AIXBT
-AIXBT is an AI-powered platform designed to detect market trends and analyze opportunities with high momentum potential. This platform takes data from various sources, including opinions from key figures on Crypto Twitter, to provide live market analysis. Although known for its high prediction accuracy, users are still advised to conduct personal research before making any transaction decisions.
+
